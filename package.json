@@ -1,6 +1,6 @@
 {
-  "name": "cute.css",
-  "version": "1.0.0",
+  "name": "@0x44ru5h/cute.css",
+  "version": "1.0.1",
   "description": "a cute, modern, and minimal css framework designed for simplicity",
   "main": "./dist/cute.min.css",
   "repository": {

@@ -1,4 +1,16 @@
-<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cookie-jar">cute.css <code>v1.0.0</code></a></h1>
+<p align = "center">
+    <a href = "https://opensource.org/licenses/MIT">
+        <img alt = "License" src = "https://img.shields.io/badge/License-AGPLv3-green.svg">
+    </a>
+    <a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">
+        <img alt = "Version" src = "https://img.shields.io/npm/v/@0x44ru5h/cute.css">
+    </a>
+    <a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">
+        <img alt = "Downloads" src = "https://img.shields.io/npm/dm/@0x44ru5h/cute.css.svg">
+    </a>
+</p>
+
+<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">cute.css <code>v1.0.0</code></a></h1>
 <h3 align = "center">a cute, modern, and minimal css framework designed for simplicity</h3>
 
 # Overview
