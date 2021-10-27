@@ -1,0 +1,16 @@
+{
+  "name": "cute.css",
+  "version": "1.0.0",
+  "description": "a cute, modern, and minimal css framework designed for simplicity",
+  "main": "./dist/cute.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x44RU5H/cute.css.git"
+  },
+  "author": "Aarush Gupta",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/0x44RU5H/cute.css/issues"
+  },
+  "homepage": "https://github.com/0x44RU5H/cute.css#readme"
+}

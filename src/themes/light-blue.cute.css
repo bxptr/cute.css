@@ -1,0 +1,10 @@
+/* variable definitions for light-blue theme for cute.css */
+
+:root {
+    --cute-text: #000000;
+    --cute-background: #ffffff;
+    --cute-background-accent: #808080;
+    --cute-accent: #2fa5ff;
+    --cute-accent-dark: #2571db;
+    --cute-accent-greyscale: #777777;
+}
