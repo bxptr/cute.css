@@ -50,6 +50,42 @@ The `footer` object is for copyright content is used **after** the `main` tag.
 ## Mobile
 `cute.css` ships with mobile styles built-in to make content readable on devices such as tablets, mini-computers, and smartphones.
 
+# Custom Themes
+`cute.css` includes a simple api for creating custom themes, with the help of css variables.
+
+Here is a sample theme from `src/basic.cute.css`
+
+```css
+:root {
+    --cute-text: #ffffff;
+    --cute-background: #151D21;
+    --cute-background-accent: #000000;
+    --cute-accent: #2fa5ff;
+    --cute-accent-dark: #2571db;
+    --cute-accent-greyscale: #777777;
+}
+```
+
+Custom themes are put in the same format, with all values as color values (hex, rgb).
+
+## `--cute-text`
+Color of text
+
+## `--cute-background`
+Color of background
+
+## `--cute-background-accent`
+Accent color (complements main) of background
+
+## `--cute-accent`
+Accent color of text
+
+## `--cute-accent-dark`
+Darker accent color of text
+
+## `--cute-accent-greyscale`
+Greyscale accent color of text
+
 # Browser Compatibility
 `cute.css` works in all modern browsers, both desktop and mobile.
 
