@@ -10,7 +10,7 @@
     </a>
 </p>
 
-<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">cute.css <code>v1.0.0</code></a></h1>
+<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">cute.css <code>v2.0.1</code></a></h1>
 <h3 align = "center">a cute, modern, and minimal css framework designed for simplicity</h3>
 
 # Overview
