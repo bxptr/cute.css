@@ -10,12 +10,12 @@
     </a>
 </p>
 
-<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">cute.css <code>v2.0.1</code></a></h1>
+<h1 align = "center"><a href = "https://www.npmjs.com/package/@0x44ru5h/cute.css">cute.css <code>v2.0.2</code></a></h1>
 <h3 align = "center">a cute, modern, and minimal css framework designed for simplicity</h3>
 
 # Overview
 
-`cute.css` is a css framework designed to be modern and minimal, with simplicity for the user in mind; that is why it ships with two pre-built themes (`src/themes/`), light and dark, with making custom themes easier than other frameworks with simple css variables. It uses html object names rather than classes to make applying styles much easier.
+`cute.css` is a css framework designed to be modern and minimal, with simplicity for the user in mind; that is why it ships with two pre-built themes (`src/themes/`), light and dark, with making custom themes easier than other frameworks with simple css variables. It uses html object names rather than classes to make applying styles much easier. See it in action at [https://hornersteamclub.github.io](https://hornersteamclub.github.io).
 
 # Styles
 
