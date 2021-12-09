@@ -3,7 +3,7 @@ compiler = npx sass
 minifier = npx cleancss
 
 source = ./src
-target = ./build
+target = ./dist
 
 all:
 	rm -rf $(target)
